@@ -10,3 +10,4 @@ In this repository I will document my path in linux
     
     Seguramente vendran otros objetivos pero por ahora dos son suficientes.
 
+Aqui quiero hacer una prueba para aprender los comandos git pull y push
